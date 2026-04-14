@@ -1,17 +1,21 @@
-# C++ Project
+# C++ Mini Projects Collection
 
-## 📌 Project Title
-Basic C++ Program (main.cpp)
+## 📌 Description
+This repository contains multiple mini projects developed in C++ as part of my learning and internship practice. These projects help in understanding basic programming concepts, logic building, and problem-solving skills.
 
-## 📖 Description
-This project is developed in C++ as part of my learning/internship practice.  
-It demonstrates basic programming concepts such as input/output, logic building, and use of standard C++ syntax.
+---
 
-## 🛠️ Technologies Used
-- C++
-- Standard Input/Output (iostream)
+## 🛠️ Mini Projects Included
 
-## 🚀 How to Run the Project
-1. Download or clone the repository
-2. Open the project in any C++ IDE (VS Code / Code::Blocks / Dev C++)
-3. Compile the file:
+- Basic Calculator Program  
+- Student Management System  
+- Number Guessing Game  
+- Pattern Printing Programs  
+- Simple Menu-Driven Programs (if included)
+
+---
+
+## 🚀 How to Run
+
+1. Open the project in any C++ IDE (VS Code / Code::Blocks / Dev C++)
+2. Compile the file:
